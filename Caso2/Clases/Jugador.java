@@ -1,20 +1,20 @@
 package Caso2.Clases;
-
+import java.util.ArrayList;
+import java.util.List;
 public class Jugador {
 
     private Jugador nuevoJugador;
-    String nombreBasket, rutJugador;
+    String nombreJugadorBasket;
 
-    public Jugador(  String nombreBasket, String rutJugador){
-        this.nombreBasket = nombreBasket;
-        this.rutJugador = rutJugador;
+    public Jugador(  String nombreJugadorBasket){
+        this.nombreJugadorBasket = nombreJugadorBasket;
     }
 
-    public String getNombreBasket() {
-        return nombreBasket;
+    public String getNombreJugadorBasket() {
+        return nombreJugadorBasket;
     }
 
-    public void setNombreBasket(String nombreBasket) {
-        this.nombreBasket = nombreBasket;
+    public void setNombreJugadorBasket(String nombreJugadorBasket) {
+        this.nombreJugadorBasket = nombreJugadorBasket;
     }
 }
