@@ -1,4 +1,7 @@
 package Caso2.Clases;
+import Caso2.Clases.EquipoBasketball;
+import Caso2.Clases.Jugador;
+
 import java.util.ArrayList;
 import java.util.List;
 class LigaBasketball {
@@ -24,7 +27,5 @@ public class Liga{
 
 
         LigaBasketball liga = new LigaBasketball(equipos);
-
-        // Realizar operaciones con la liga según tus necesidades.
     }
 }
