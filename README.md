@@ -6,4 +6,10 @@
 ![caso5](https://github.com/BenjaFA/TallerAtrasado/assets/142475169/030b7022-d46e-40ab-a1fe-032967e9f526)
 
 ## Caso a escoger, caso 2
+![caso2](https://github.com/BenjaFA/TallerAtrasado/assets/142475169/79f96623-1ab3-45a4-a206-eed27cb8be50)
+### Clases identificadas:
+· Clase Jugador
 
+· Clase EquiposBaketball
+
+· Clase LigaBaketball
